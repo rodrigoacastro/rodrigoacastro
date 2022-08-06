@@ -14,4 +14,6 @@
 - 💬 Ask me about AWS, Python, R, Bash, Data Science, or something else I can help with.
 - ⚡ Fun fact: I have been reading mangas for a long time, and still do!
 
+Currently learning cybersecurity on tryhackme: <a href="https://tryhackme.com/p/magi.cat"> https://tryhackme.com/p/magi.cat <a/>
+
 That's all folks!

@@ -8,8 +8,8 @@
 </div>
 
  
-- 🔭 I’m currently working on Data Science and Information Security.
-- 🌱 I’m currently learning information security, as it is quite important and extremely fascinating (well said, Spock).
+- 🔭 I’m currently working on Information Security.
+- 🌱 I’m currently learning further information security, as it is quite important and extremely fascinating (well said, Spock).
 - 👯 I’m looking to collaborate on interesting projects.
 - 💬 Ask me about AWS, Python, R, Bash, Data Science, or something else I can help with.
 - ⚡ Fun fact: I have been reading mangas for a long time, and still do!
